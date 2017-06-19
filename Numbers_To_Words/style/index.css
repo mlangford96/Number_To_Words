@@ -1,0 +1,61 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+div.top_pane {
+    width: 100%;
+    height: 250px;
+    padding: 50px 0px 0px 0px;  
+    background: #065687;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-family: "Calibri";
+    font-size: 38pt;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-family: "Calibri";
+    font-size: 32pt;
+}
+
+p {
+    font-family: "Calibri";
+}
+
+div.input_pane {
+    width: 50%;
+    font-family: "Calibri";
+    font-size: 18pt;
+    margin: 50px auto 0px auto;
+    text-align: center;
+}
+
+
+form.form {
+    width: 100%;
+    margin: 0;
+}
+
+.input_pane input {
+    width: 500px;
+    height: 50px;
+    font-size: 18pt;
+} 
+
+.input_pane .submit {
+    margin: auto;
+    width: 510px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background: #065687;
+}
+
+
